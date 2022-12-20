@@ -1,7 +1,6 @@
 ### Hi all 👋
 
-I teach Computer Science at Tulane University.
-
+- 🌱 I teach Computer Science at Tulane University.
 - 🔭 I'm interested in proteins, math, and dnd. 
   - I have other interests too!
 - ⚡ Fun fact: I spent a summer compiling my own [linux from scratch](https://www.linuxfromscratch.org/). 
