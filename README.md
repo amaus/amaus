@@ -1,4 +1,4 @@
-🤓### Hi all 👋
+### Hi all 👋
 
 I teach Computer Science at Tulane University.
 
