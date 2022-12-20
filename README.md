@@ -1,8 +1,11 @@
-### Hi all 👋
+🤓### Hi all 👋
 
 I teach Computer Science at Tulane University.
 
-I'm interested in proteins, math, and dnd. I have other interests too!
+- 🔭 I'm interested in proteins, math, and dnd. 
+  - I have other interests too!
+- ⚡ Fun fact: I spent a summer compiling my own [linux from scratch](https://www.linuxfromscratch.org/). 
+  - It took a whole summer because I had alot to learn in order to do it!
 
 <!--
 **amaus/amaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
