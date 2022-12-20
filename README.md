@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi 👋
+
+I teach Computer Science at Tulane University.
+
+I'm interested in proteins, math, and dnd. I have other interests too!
 
 <!--
 **amaus/amaus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
